@@ -42,7 +42,7 @@ header {
 
 .marca {
     width: fit-content;
-    font-family: Hagin;
+    font-family: Poppins-ExtraBold;
     font-size: 2rem;
     color: rgb(28, 124, 4);
     letter-spacing: 2px;
@@ -62,7 +62,7 @@ header {
 .aviso {
     width: 90%;
     margin-top: 10px;
-    font-family: Poppins-normal;
+    font-family: HaginCapsMedium-Medium;
     font-size: .8rem;
     line-height: 1.5rem;
     letter-spacing: .2rem;
